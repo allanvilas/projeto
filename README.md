@@ -4,7 +4,7 @@
 
 ### Briefing do Programa
 Sistema de gestão escolar.
-Técnologias Usadas:
+#### Técnologias Usadas:
 - Python
 - Banco de dados SQLite
 
